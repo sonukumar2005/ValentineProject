@@ -53,9 +53,9 @@ With a cute Mochi cat GIF embedded from Tenor.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 MAKER
 
-**Sonu Kumar**
+**SONU KUMAR**
 
 ---
 
@@ -70,3 +70,4 @@ With a cute Mochi cat GIF embedded from Tenor.
 ## 📜 License
 
 This project is open-source and free to use.
+
